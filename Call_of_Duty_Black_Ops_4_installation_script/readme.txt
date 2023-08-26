@@ -2,7 +2,7 @@
 
 Call Of Duty - Black Ops 4 + DLC + all Unlocked
 
-1) Download The folder from and extract its contents.
+1) Download The folder from https://github.com/n00bish-n00b/COD-BO4.git and extract its contents.
 Also turn off antivirus.
 2) click on battle.net.bat to start the installation. By default, it will install in C drive,but you can edit .bat file to change installation directory.
 3)it is recommended to do it on lan as file size is 150 GB (Installation is not blocked on lan so you can leave it overnight).
